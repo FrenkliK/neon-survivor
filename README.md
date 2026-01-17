@@ -3,7 +3,7 @@
 A polished top-down arcade survival shooter that runs as a single `index.html`.
 
 ## Play
-▶️ Play here: https://<your-username>.github.io/<repo-name>/
+▶️ Play here: [https://<your-username>.github.io/<repo-name>/](https://frenklik.github.io/neon-survivor/)
 
 ## Features
 - Difficulty modes: **Easy / Normal / Hard**

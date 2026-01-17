@@ -2,6 +2,9 @@
 
 A polished top-down arcade survival shooter that runs as a single `index.html`.
 
+## Play
+▶️ Play here: https://<your-username>.github.io/<repo-name>/
+
 ## Features
 - Difficulty modes: **Easy / Normal / Hard**
   - scales enemy HP, enemy damage, spawn density, and upgrade rate
